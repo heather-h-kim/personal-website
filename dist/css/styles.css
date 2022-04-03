@@ -11299,3 +11299,17 @@ section {
   padding-top: 9rem;
   padding-bottom: 9rem;
 }
+
+.grid-container{
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+}
+
+.project-title{
+  margin-bottom: 30px;
+  padding-left: 20px;
+}
+
+.section-title{
+  margin-bottom: 20px;
+}
