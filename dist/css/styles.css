@@ -7807,7 +7807,7 @@ textarea.form-control-lg {
 
 .bg-primary {
   --bs-bg-opacity: 1;
-  background-color: rgba(var(--bs-primary-rgb), var(--bs-bg-opacity)) !important;
+  background-color: #86b300 !important;
 }
 
 .bg-secondary {
@@ -11312,4 +11312,9 @@ section {
 
 .section-title{
   margin-bottom: 20px;
+}
+
+.bg-header{
+  background-image: url("pexels-pixabay-15780.jpg");
+  background-repeat: no-repeat;
 }
